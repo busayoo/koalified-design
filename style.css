@@ -298,7 +298,7 @@ button:hover{
         text-align: center;
     }    
     .center-text{
-        padding: 1% 18%;
+        padding: 1% 5%;
     }
     .center-texts-container p:first-child{
         text-align: center;
@@ -310,6 +310,7 @@ button:hover{
     }
     .center-texts-container{
         padding: 1.5rem 2em;
+        margin: 4rem 2rem;
     }
 }
 @media screen and (max-width:560px) {
